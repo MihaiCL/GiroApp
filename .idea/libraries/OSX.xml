@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="OSX">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/main/resources/OSX" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/Windows" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/Linux" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/Android" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
